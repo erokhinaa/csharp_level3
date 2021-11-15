@@ -1,0 +1,63 @@
+﻿<Window x:Class="MailSender.WpfMailSender"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MailSender"
+        mc:Ignorable="d"
+        Title="Отправка почты" Height="450" Width="600">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Параметры подключения">
+                <StackPanel x:Name="sp1" Height="200" Width="560" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0">
+                    <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0">
+                    Почтовый сервер:
+                    </TextBlock>
+                    <TextBox x:Name="tbMailServer" Text="{Binding WpfMailSend.smtp_server}" Width="160" Height="20" HorizontalAlignment="Left" Margin="10,10,0,0">
+                    </TextBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0">
+                    Порт сервера:
+                    </TextBlock>
+                    <TextBox x:Name="tbMailPort" Text="{Binding WpfMailSend.port}" Width="80" Height="20" HorizontalAlignment="Left" Margin="10,10,0,0">
+                    </TextBox>
+                </StackPanel>
+            </TabItem>
+        
+            <TabItem Header="Новое письмо">
+                <StackPanel x:Name="sp2" Height="320" Width="560" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0">
+                    <TextBlock HorizontalAlignment="Left" Margin="5,5,0,0">
+                    Отправитель:
+                    </TextBlock>
+                    <TextBox x:Name="tbMailFrom" Text="{Binding WpfMailSend.email}" Width="220" Height="20" HorizontalAlignment="Left" Margin="5,5,0,0">
+                    </TextBox>
+
+                    <TextBlock HorizontalAlignment="Left" Margin="5,5,0,0">
+                    Пароль к почтовому ящику:
+                    </TextBlock>
+                    <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top" Width="220"/>
+
+                    <TextBlock HorizontalAlignment="Left" Margin="5,5,0,0">
+                        Получатель:
+                    </TextBlock>
+                    <TextBox x:Name="tbMailTo" Text="{Binding WpfMailSend.sendMails}" Width="220" Height="20" HorizontalAlignment="Left" Margin="5,5,0,0">
+                    </TextBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="5,20,0,0">
+                        Тема письма:
+                    </TextBlock>
+                    <TextBox x:Name="tbMailSubject" Text="{Binding WpfMailSend.subject}" Width="280" Height="20" HorizontalAlignment="Left" Margin="5,5,0,0">
+                    </TextBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="5,5,0,0">
+                        Текст письма:
+                    </TextBlock>
+                    <TextBox x:Name="tbMailText" Text="{Binding WpfMailSend.mailtext}" Width="540" Height="80" HorizontalAlignment="Left" Margin="5,5,0,0">
+                    </TextBox>
+            </StackPanel>
+            </TabItem>
+        </TabControl>
+
+        <Button x:Name="btnMailSend" Margin="40,360,10,10" Width="120" Height="40" HorizontalAlignment="Center" VerticalAlignment="Center" Click="btnMailSend_Click">
+            Отправить письмо
+        </Button>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\bin\Debug\MailSender.exe.config
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\bin\Debug\MailSender.exe
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\bin\Debug\MailSender.pdb
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.csproj.AssemblyReference.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\App.g.cs
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.g.resources
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.exe
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender.pdb
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\WpfMailSender.g.cs
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\WpfMailSender.baml
+D:\GeekBrains\projects\csharp_level3\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.lref
