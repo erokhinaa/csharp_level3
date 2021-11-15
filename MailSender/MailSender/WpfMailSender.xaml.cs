@@ -17,7 +17,7 @@ namespace MailSender
             EmailSendServiceClass ems = new EmailSendServiceClass();
             
             if (ems.EmailSend(WpfMailSend.email, WpfMailSend.pass, WpfMailSend.smtp_server, WpfMailSend.port, WpfMailSend.sendMails, WpfMailSend.subject, WpfMailSend.mailtext) >= 0) 
-                MessageBox.Show("Письмо успешно отправлено!");
+                MessageBox.Show("Письмо успешно отправлено");
             else
                 MessageBox.Show("Ошибка отправки сообщения");
 
