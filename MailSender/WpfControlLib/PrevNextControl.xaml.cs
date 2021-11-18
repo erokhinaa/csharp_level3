@@ -26,7 +26,8 @@ namespace LibControls
         public static readonly DependencyProperty FileNameProperty = DependencyProperty.Register("FileName", typeof(string), typeof(FileInpBox));
 
         public static readonly RoutedEvent FileNameChangedEvent = EventManager.RegisterRoutedEvent("FileNameChanged", RoutingStrategy.Bubble, typeof(RoutedEventHandler), typeof(FileInpBox));
-        
+        private object theTextBox;
+
         public FileInpBox()
         {
             InitializeComponent();
