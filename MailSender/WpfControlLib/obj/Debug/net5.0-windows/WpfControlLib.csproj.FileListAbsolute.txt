@@ -1,0 +1,4 @@
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlLib\obj\Debug\net5.0-windows\WpfControlLib.csproj.AssemblyReference.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlLib\obj\Debug\net5.0-windows\PrevNextControl.g.cs
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlLib\obj\Debug\net5.0-windows\WpfControlLib_MarkupCompile.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlLib\obj\Debug\net5.0-windows\WpfControlLib_MarkupCompile.lref

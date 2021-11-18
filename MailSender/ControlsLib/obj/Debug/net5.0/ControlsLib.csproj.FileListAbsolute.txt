@@ -1,0 +1,12 @@
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\bin\Debug\net5.0\ControlsLib.deps.json
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\bin\Debug\net5.0\ControlsLib.dll
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\bin\Debug\net5.0\ref\ControlsLib.dll
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\bin\Debug\net5.0\ControlsLib.pdb
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.csproj.AssemblyReference.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.AssemblyInfoInputs.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.AssemblyInfo.cs
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.csproj.CoreCompileInputs.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.dll
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ref\ControlsLib.dll
+D:\GeekBrains\projects\csharp_level3\MailSender\ControlsLib\obj\Debug\net5.0\ControlsLib.pdb
