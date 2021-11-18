@@ -7,7 +7,7 @@ namespace MailSender
 {
     public class EmailSendServiceClass
     {
-        public int rcode;
+        private int rcode;
         public int EmailSend(string email, string pass, string smtp_server, short port, List<string> sendMails, string subject, string mailtext)
         {
             rcode = 0;

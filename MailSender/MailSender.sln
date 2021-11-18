@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSender", "MailSender\MailSender.csproj", "{D23E19E7-5B53-48BE-99C6-3A173F42BE85}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlsLib", "ControlsLib\ControlsLib.csproj", "{0EF9CD8E-A636-4E8D-86E8-8351676C30B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLib", "WpfControlLib\WpfControlLib.csproj", "{89FDD65C-0EC9-49FC-BB71-3ACBF7EDA299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D23E19E7-5B53-48BE-99C6-3A173F42BE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D23E19E7-5B53-48BE-99C6-3A173F42BE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D23E19E7-5B53-48BE-99C6-3A173F42BE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF9CD8E-A636-4E8D-86E8-8351676C30B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF9CD8E-A636-4E8D-86E8-8351676C30B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF9CD8E-A636-4E8D-86E8-8351676C30B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF9CD8E-A636-4E8D-86E8-8351676C30B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FDD65C-0EC9-49FC-BB71-3ACBF7EDA299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FDD65C-0EC9-49FC-BB71-3ACBF7EDA299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FDD65C-0EC9-49FC-BB71-3ACBF7EDA299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FDD65C-0EC9-49FC-BB71-3ACBF7EDA299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

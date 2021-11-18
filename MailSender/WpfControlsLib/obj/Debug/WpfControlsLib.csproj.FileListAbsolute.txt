@@ -1,0 +1,13 @@
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\bin\Debug\WpfControlsLib.dll
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\bin\Debug\WpfControlsLib.pdb
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.csproj.AssemblyReference.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\PrevNextControl.g.cs
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib_MarkupCompile.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib_MarkupCompile.lref
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\PrevNextControl.baml
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.g.resources
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.Properties.Resources.resources
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.csproj.GenerateResource.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.csproj.CoreCompileInputs.cache
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.dll
+D:\GeekBrains\projects\csharp_level3\MailSender\WpfControlsLib\obj\Debug\WpfControlsLib.pdb
